@@ -1,10 +1,10 @@
-# It's a-me, vqmpkillable!
-![Banner](https://github.com/vqmpkillable/vqmpkillable/raw/main/animated_banner.gif)
+# It's a-me, hydra!
+![Banner](https://github.com/vqmphydra/vqmphydra/raw/main/animated_banner.gif)
 
 A young boy from Greece tryna make it to the top of Fortnite content creation 🙏
+Owner of [VQMP™](mailto:vqmpcontact@proton.me)
 
-[🌐 Website](https://vqmpkillable.github.io)
+[🌐 Website](https://vqmphydra.github.io)
 
-[📱 Social Media](https://vqmpkillable.github.io/en-US/social-media.html)
+[📱 Social Media](https://vqmphydra.github.io/social-media.html)
 
-> © vqmpkillable 2023

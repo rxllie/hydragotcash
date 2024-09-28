@@ -1,3 +1,5 @@
 # It's a-me, hydra!
-![Banner](https://github.com/vqmphydra/vqmphydra/raw/main/animated_banner.gif)
+![Banner](https://github.com/hydragotcash/hydragotcash/raw/main/animated_banner.gif)
+
+Vone 4.0 coming soon... 👀
 

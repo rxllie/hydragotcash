@@ -1,4 +1,4 @@
-# hydra!
+# batty!
 
-Vone 4.0 coming soon... 👀
+Vone 4.1 coming soon... 👀
 
